@@ -11,7 +11,7 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 ## Base of the gameplay
 [![BloodRayne 2 PS2 Gameplay HD (PCSX2 v1.7.0)](https://img.youtube.com/vi/hFYaKKUkYmE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aEZZYUtLVWtZbUU)
 
-[![Spawn: The Eternal PSX](https://img.youtube.com/vi/7zvVWT8mJMw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?N3p2VldUOG1KTXc)
+[![Spawn: The Eternal PSX](https://img.youtube.com/vi/7zvVWT8mJMw/hqdefault.jpg)](https://ytembed.macosxjs.com/?N3p2VldUOG1KTXc)
 
 [![The Making of 'SPAWN' (1997) Behind The Scenes](https://img.youtube.com/vi/1RNptZs1FOs/hqdefault.jpg)](https://ytembed.macosxjs.com/?MVJOcHRaczFGT3M)
 
