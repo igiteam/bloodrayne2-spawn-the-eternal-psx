@@ -13,9 +13,9 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 
 [![Spawn: The Eternal PSX](https://img.youtube.com/vi/7zvVWT8mJMw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?N3p2VldUOG1KTXc)
 
-[![The Making of 'SPAWN' (1997) Behind The Scenes](https://img.youtube.com/vi/1RNptZs1FOs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MVJOcHRaczFGT3M)
+[![The Making of 'SPAWN' (1997) Behind The Scenes](https://img.youtube.com/vi/1RNptZs1FOs/hqdefault.jpg)](https://ytembed.macosxjs.com/?MVJOcHRaczFGT3M)
 
-[![Spawn: The Movie - CGI Spawn Behind The Scenes (1997)](https://img.youtube.com/vi/4BlBfgEFcsk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NEJsQmZnRUZjc2s)
+[![Spawn: The Movie - CGI Spawn Behind The Scenes (1997)](https://img.youtube.com/vi/4BlBfgEFcsk/hqdefault.jpg)](https://ytembed.macosxjs.com/?NEJsQmZnRUZjc2s)
 
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
