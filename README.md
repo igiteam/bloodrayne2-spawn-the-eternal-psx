@@ -39,6 +39,8 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 
 [![Bloodrayne 2](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/bloodrayne2.jpg)](https://archive.org/details/bloodrayne-2-deviance)
 
+[![Spawn Armageddon](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-armageddon.png)](https://vimm.net/vault/68275)
+
 ---
 
 
