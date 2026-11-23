@@ -25,7 +25,11 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 [![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 ## Reference links
-[https://vimm.net/vault/54302(https://vimm.net/vault/54302)
+[https://vimm.net/vault/54302](https://vimm.net/vault/54302)
+
+[https://archive.org/details/Tekken3.7z](https://archive.org/details/Tekken3.7z)
+
+[https://github.com/FishB0nes98/Tekken3Recompiled](https://github.com/FishB0nes98/Tekken3Recompiled)
 
 [https://archive.org/details/bloodrayne-2-deviance](https://archive.org/details/bloodrayne-2-deviance)
 
