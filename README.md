@@ -15,10 +15,11 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 
 [![Spawn Armageddon](https://img.youtube.com/vi/E4kesozIvs8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?RTRrZXNvekl2czg)
 
-[![The Making of 'SPAWN' (1997) Behind The Scenes](https://img.youtube.com/vi/1RNptZs1FOs/hqdefault.jpg)](https://ytembed.macosxjs.com/?MVJOcHRaczFGT3M)
+[![The Making of SPAWN 1997 Behind The Scenes](https://img.youtube.com/vi/1RNptZs1FOs/hqdefault.jpg)](https://ytembed.macosxjs.com/?MVJOcHRaczFGT3M)
 
-[![Spawn: The Movie - CGI Spawn Behind The Scenes (1997)](https://img.youtube.com/vi/4BlBfgEFcsk/hqdefault.jpg)](https://ytembed.macosxjs.com/?NEJsQmZnRUZjc2s)
+[![Spawn The Movie - CGI Spawn Behind The Scenes 1997](https://img.youtube.com/vi/4BlBfgEFcsk/hqdefault.jpg)](https://ytembed.macosxjs.com/?NEJsQmZnRUZjc2s)
 
+[![Spawn In the Demon's Hand 2000](https://img.youtube.com/vi/S7vzIf_v8ek/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Uzd2eklmX3Y4ZWs)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
@@ -40,6 +41,8 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 [![Bloodrayne 2](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/bloodrayne2.jpg)](https://archive.org/details/bloodrayne-2-deviance)
 
 [![Spawn Armageddon](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-armageddon.png)](https://vimm.net/vault/68275)
+
+![Spawn In the Demon's Hand](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-dreamcast.png)](https://vimm.net/vault/63413)
 
 ---
 
