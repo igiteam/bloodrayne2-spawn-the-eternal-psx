@@ -42,7 +42,7 @@ A total conversion project in Bloodrayne 2 remaking Spawn The Eternal PSX game i
 
 [![Spawn Armageddon](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-armageddon.png)](https://vimm.net/vault/68275)
 
-![Spawn In the Demon's Hand](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-dreamcast.png)](https://vimm.net/vault/63413)
+[![Spawn In the Demon's Hand](https://raw.githubusercontent.com/igiteam/bloodrayne2-spawn-the-eternal-psx/refs/heads/main/spawn-dreamcast.png)](https://vimm.net/vault/63413)
 
 ---
 
